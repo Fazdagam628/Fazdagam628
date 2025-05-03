@@ -1,5 +1,5 @@
 ## 😎😎😎
-![Tung Tung Sahur](tung-tung-tung-sahur-alexcraft7192.gif)
+![Tung Tung Sahur](img/tung-tung-tung-sahur-alexcraft7192.gif)
 <!--
 **Fazdagam628/Fazdagam628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

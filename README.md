@@ -52,7 +52,9 @@ Sometime do Arduino, IOT, and Game 🎮
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph.svg">
 </picture>
 
----
+###
 
 <img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

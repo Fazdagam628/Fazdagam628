@@ -14,6 +14,7 @@ Sometime do Arduino, IOT, and Game 🎮
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 ![](https://nirzak-streak-stats.vercel.app/?user=Fazdagam628&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -28,8 +29,6 @@ Sometime do Arduino, IOT, and Game 🎮
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fazdagam628&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 

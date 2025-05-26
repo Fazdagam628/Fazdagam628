@@ -40,10 +40,6 @@ Sometime do Arduino, IOT, and Game 🎮
 ![](https://github-contributor-stats.vercel.app/api?username=Fazdagam628&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### Mini Games
-
----
-
 <img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -55,5 +51,3 @@ Sometime do Arduino, IOT, and Game 🎮
 </picture>
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

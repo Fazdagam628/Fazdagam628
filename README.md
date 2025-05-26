@@ -18,7 +18,7 @@ Sometime do Arduino, IOT, and Game 🎮
 # 📊 GitHub Stats:
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
 ![](https://nirzak-streak-stats.vercel.app/?user=Fazdagam628&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
@@ -52,9 +52,8 @@ Sometime do Arduino, IOT, and Game 🎮
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
 
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

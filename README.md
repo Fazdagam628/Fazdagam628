@@ -6,7 +6,7 @@ Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
-![Visit Count](https://komarev.com/ghpvc/?username=Fazdagam628&color=dc143c)
+![Visit Count](https://komarev.com/ghpvc/?username=Fazdagam628&color=dc143c&style=for-the-badge)
 
 ## 🌐 Socials:
 ---

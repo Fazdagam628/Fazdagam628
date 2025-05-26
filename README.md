@@ -27,6 +27,22 @@ Sometime do Arduino, IOT, and Game 🎮
 ---
 [![](https://visitcount.itsvg.in/api?id=Fazdagam628&icon=10&color=13)](https://visitcount.itsvg.in)
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Ordinary person 😎😎
 

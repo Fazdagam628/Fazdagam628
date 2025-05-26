@@ -1,7 +1,9 @@
 
 # 💫 About Me:
 Just a beginner programmer
+
 Main Focus : Web Programming (FullStack)
+
 Sometime do Arduino, IOT, and Game 🎮
 
 

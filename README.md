@@ -6,6 +6,8 @@ Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
+![Visit Count](https://komarev.com/ghpvc/?username=Fazdagam628&color=dc143c)
+
 ## 🌐 Socials:
 ---
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/fazdagam628) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fauzan.dani.963) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](fauzan-mas-ud-ramadhani-0bb105317) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Fazdagam628)
@@ -39,10 +41,10 @@ Sometime do Arduino, IOT, and Game 🎮
 
 ![](https://github-contributor-stats.vercel.app/api?username=Fazdagam628&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Fazdagam628&icon=10&color=13)](https://visitcount.itsvg.in)
 
-###
+### Mini Games
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph-dark.svg">
@@ -50,10 +52,7 @@ Sometime do Arduino, IOT, and Game 🎮
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

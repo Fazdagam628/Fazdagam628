@@ -40,7 +40,7 @@ Sometime do Arduino, IOT, and Game 🎮
 ![](https://github-contributor-stats.vercel.app/api?username=Fazdagam628&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Fazdagam628/Fazdagam628/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 

@@ -3,20 +3,15 @@
 
 <img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
 
-<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
-
 Just a beginner programmer
 
 Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
-
-
-
-
-
 ## 👀 Visit Counts
+
+---
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />
@@ -53,6 +48,8 @@ Sometime do Arduino, IOT, and Game 🎮
 ### 🔝 Top Contributed Repo
 
 ---
+
+<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
 
 ![](https://github-contributor-stats.vercel.app/api?username=Fazdagam628&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

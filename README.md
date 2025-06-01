@@ -1,14 +1,16 @@
 
 # 💫 About Me:
+
+<img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
+
+<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
+
 Just a beginner programmer
 
 Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
-<img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
-
-<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />

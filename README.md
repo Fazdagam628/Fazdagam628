@@ -11,8 +11,6 @@ Sometime do Arduino, IOT, and Game 🎮
 
 ### 👀 Visit Counts
 
----
-
 <div align="left">
   <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />
 </div>

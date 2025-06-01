@@ -6,7 +6,13 @@ Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
-![Visit Count](https://komarev.com/ghpvc/?username=Fazdagam628&color=dc143c&style=for-the-badge)
+<img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
+
+<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />
+</div>
 
 ## 🌐 Socials:
 
@@ -17,15 +23,17 @@ Sometime do Arduino, IOT, and Game 🎮
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<img align="right" height="200" src="./img/Katou Megumi Cute GIF - Katou Megumi Cute Anime - Discover & Share GIFs.gif"  />
-![](https://nirzak-streak-stats.vercel.app/?user=Fazdagam628&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazdagam628&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" height="200" src="img/tung-tung-tung-sahur-alexcraft7192.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fazdagam628&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fazdagam628&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=synthwave&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fazdagam628&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Fazdagam628&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-## 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=Fazdagam628&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazdagam628&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
 
 ### ✍️ Random Dev Quote
 

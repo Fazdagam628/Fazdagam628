@@ -11,7 +11,7 @@ Main Focus : Web Programming (FullStack)
 
 Sometime do Arduino, IOT, and Game 🎮
 
-## Visit Counts
+## 👀 Visit Counts
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />

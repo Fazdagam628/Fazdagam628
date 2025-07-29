@@ -11,9 +11,8 @@ Sometime do Arduino, IOT, and Game 🎮
 
 ### 👀 Visit Counts
 
-<div align="left">
- ![](https://komarev.com/ghpvc/?username=Fazdagam628&color=blue&style=plastic&abbreviated=true)
-</div>
+![](https://komarev.com/ghpvc/?username=Fazdagam628&color=blue&style=plastic&abbreviated=true)
+
 
 
 ## 🌐 Socials:

@@ -12,7 +12,7 @@ Sometime do Arduino, IOT, and Game 🎮
 ### 👀 Visit Counts
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/Fazdagam628/count.svg?"  />
+ ![](https://komarev.com/ghpvc/?username=Fazdagam628&color=blue&style=plastic&abbreviated=true)
 </div>
 
 
